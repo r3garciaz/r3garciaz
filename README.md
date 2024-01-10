@@ -1,18 +1,19 @@
 # Reinaldo García Zuñiga- @r3garciaz
-- 👋 Hi, I'm a seasoned software developer with six years of hands-on experience, specializing in ASP.NET, C#, Angular, and mobile development. I have a strong foundation in cloud technologies, AWS, and expertise in deploying solutions using Azure DevOps.
+- 👋 Hi, I'm a seasoned software developer with 5+ of hands-on experience, specializing in ASP.NET, C#, Angular, and mobile development. I have a strong foundation in cloud technologies, AWS, and expertise in deploying solutions using Azure DevOps.
 - 👀 Here's a snapshot of my technical skills:
   - Backend: __ASP.NET__, C#
   - Frontend: __Angular__, JavaScript, MVC
   - Programming languages: C#, Javascript, TypeScript
   - Mobile: __Ionic/Cordova__, React Native
   - Cloud: __AWS__, Azure
-  - Deployment: __Azure DevOps__
+  - Deployment: __Azure DevOps__, CI/CD
+  - Databases: SQL, NoSQL
 - 🌱 I thrive on continuous learning and stay abreast of the latest industry trends, with a focus on cloud infrastructure and scalable deployments.
 
 # 📫 How to reach me ...
 Feel free to connect or reach out to me through the following channels:
 - [My Portfolio](https://r3garciaz.dev/)
-- [LinkedIn](https://www.linkedin.com/in/reinaldo-garcia-z)
+- [LinkedIn](https://www.linkedin.com/in/r3garciaz)
 - [Twitter](https://twitter.com/r3garciaz)
 - [GitHub](https://github.com/r3garciaz)
 
