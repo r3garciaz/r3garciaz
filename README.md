@@ -97,19 +97,6 @@ Designed and implemented comprehensive CI/CD pipelines in Azure DevOps, includin
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r3garciaz&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3garciaz&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3garciaz&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
 ## 📫 Get In Touch
 
 I'm always open to discussing new opportunities, collaborations, or just connecting with fellow developers!
