@@ -83,16 +83,16 @@ With a strong foundation in cloud technologies (**AWS** and **Azure**), I excel 
 
 ## 🏆 Featured Projects
 
-### 🔹 [Cloud Infrastructure Automation](#)
+### 🔹 Cloud Infrastructure Automation
 Automated AWS infrastructure provisioning using Infrastructure as Code (IaC) with CloudFormation and Terraform, reducing manual setup time by 80%.
 
-### 🔹 [Enterprise Web Application](#)
+### 🔹 Enterprise Web Application
 Full-stack enterprise application built with ASP.NET Core, Angular, and SQL Server, featuring real-time updates, role-based access control, and responsive design.
 
-### 🔹 [Cross-Platform Mobile App](#)
+### 🔹 Cross-Platform Mobile App
 Hybrid mobile application developed with Ionic and Cordova, deployed on both iOS and Android platforms with offline-first capabilities.
 
-### 🔹 [DevOps Pipeline Optimization](#)
+### 🔹 DevOps Pipeline Optimization
 Designed and implemented comprehensive CI/CD pipelines in Azure DevOps, including automated testing, security scanning, and blue-green deployments.
 
 ---
